@@ -1,6 +1,6 @@
-# Register-Login-secret-lan 🗝️
+# Register-Login-Secret-Web 🗝️
 
-**Register-Login-secret-lan** is a full-stack web application designed to provide user authentication (registration and login) with secure session management and seamless MongoDB Atlas integration. The application allows users to register, log in, and access their private data securely, stored in a MongoDB cloud database. The project follows industry best practices for authentication, data security, and is production-ready for deployment.
+**Register-Login-Secret-Web** is a full-stack web application designed to provide user authentication (registration and login) with secure session management and seamless MongoDB Atlas integration. The application allows users to register, log in, and access their private data securely, stored in a MongoDB cloud database. The project follows industry best practices for authentication, data security, and is production-ready for deployment.
 
 ## 🚀 Technologies Used:
 - **Node.js**: JavaScript runtime environment for server-side logic.
@@ -27,7 +27,7 @@
 
 ---
 
-This web app is designed with scalability and security in mind, using modern technologies to manage user data safely and efficiently. Whether you're looking for a secure user authentication solution or a cloud-based storage system, **Register-Login-secret-lan** has you covered. 🌐🔒
+This web app is designed with scalability and security in mind, using modern technologies to manage user data safely and efficiently. Whether you're looking for a secure user authentication solution or a cloud-based storage system, **Register-Login-Secret-Web** has you covered. 🌐🔒
 
 ---
 
